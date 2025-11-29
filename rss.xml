@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>hexahedron1's super secret blog</title>
+ <description>Occasional posts from a rectangle</description>
+ <link>https://hexahedron1.github.io/supersecretpage/blog/index.html</link>
+ <copyright>Creative Commons Attribution-ShareAlike 4.0</copyright>
+
+ <item>
+  <title>Test 1</title>
+  <description>Test post</description>
+  <link>https://hexahedron1.github.io/supersecretpage/blog/index.html?p=0</link>
+  <pubDate>29 November 2025 13:23 GMT+3</pubDate>
+ </item>
+ <item>
+  <title>Test 2</title>
+  <description>Test post</description>
+  <link>https://hexahedron1.github.io/supersecretpage/blog/index.html?p=1</link>
+  <pubDate>29 November 2025 13:23 GMT+3</pubDate>
+ </item>
+</channel>
+</rss>
