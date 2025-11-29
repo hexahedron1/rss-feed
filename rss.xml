@@ -6,14 +6,23 @@
  <link>https://hexahedron1.github.io/supersecretpage/blog/index.html</link>
  <copyright>Creative Commons Attribution-ShareAlike 4.0</copyright>
 
- <item>
-  <title>New blog</title>
-  <description>
-    Hi i have a blog now <br/>;
+  <item>
+    <title>New blog</title>
+    <description>
+    Hi i have a blog now <br/>
     Don't expect frequent posts in here but there will occasionally be some
-  </description>
-  <link>https://hexahedron1.github.io/supersecretpage/blog/index.html?p=0</link>
-  <pubDate>29 November 2025 14:43 GMT+3</pubDate>
- </item>
+    </description>
+    <link>https://hexahedron1.github.io/supersecretpage/blog/index.html?p=0</link>
+    <pubDate>29 November 2025 14:43 GMT+3</pubDate>
+  </item>
+  <item>
+    <title>Dark viewer incompat</title>
+    <description>
+      Turns out dark viewer can mess up the style of the website<br/>
+      so if you have it installed, (and you probably noticed that it looks weird) disable it for this website
+    </description>
+    <link>https://hexahedron1.github.io/supersecretpage/blog/index.html?p=0</link>
+    <pubDate>29 November 2025 14:43 GMT+3</pubDate>
+  </item>
 </channel>
 </rss>
